@@ -1,6 +1,7 @@
 ### Pour installer le projet sur votre machine, veuillez entrer ces commandes dans votre Terminal
 
 - git clone https://github.com/Piscarocarlos/laravel-react-with-inertia (Pour cloner le projet sur votre machine dans un dossier)
+- Entrez la commande " cd laravel-react-with-inertia "
 - composer install
 - cp .env.example .env
 - php artisan key:generate
